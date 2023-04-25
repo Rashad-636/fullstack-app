@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "fullstackapp2af8f172": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ag33s9z048xg",
+          "type": "cicd"
+        }
       }
     }
   }
